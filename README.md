@@ -1,2 +1,5 @@
 <h1>Frame</h1> 
-<p> It is a proyect which you can develop or practis new software applying good practices and design pattern MVC </p>
+<p> 
+  With this template you are be able to start a 
+  php project applying MVC design pattern.
+</p>
